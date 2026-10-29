@@ -1,0 +1,11 @@
+﻿<Solution>
+  <Project Path="MarketPlace.Android/MarketPlace.Android.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="MarketPlace.Browser/MarketPlace.Browser.csproj" />
+  <Project Path="MarketPlace.Desktop/MarketPlace.Desktop.csproj" />
+  <Project Path="MarketPlace.iOS/MarketPlace.iOS.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="MarketPlace/MarketPlace.csproj" />
+</Solution>
